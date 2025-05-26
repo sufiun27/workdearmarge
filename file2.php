@@ -6,7 +6,7 @@ $value4 = $_POST['value4'];
 $value5 = $_POST['value5'];
 $value6 = 'insonmnia';
 
-$value_from_main = $_POST['value10'];
+$value_from_main_nai = 'make change this'
 $hop=1234;
 
 
