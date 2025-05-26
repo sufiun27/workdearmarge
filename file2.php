@@ -4,10 +4,10 @@ $value2 = $_POST['value2'];
 $value3 = $_POST['value3'];
 $value4 = $_POST['value4'];
 $value5 = $_POST['value5'];
-$value6 = $_POST['value6'];
-$value7 = $_POST['value7'];
-$value8 = $_POST['value8'];
-$value9 = $_POST['value9'];
+$value6 = 'insonmnia';
+
+public function got();
+
 $value10 = $_POST['value10'];
 $value11 = $_POST['value11'];
 $value12 = $_POST['value12'];
